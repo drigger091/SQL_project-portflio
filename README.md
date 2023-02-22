@@ -3,7 +3,7 @@
 
 SQL_project-portflio
 
-an analysis report for Covid_patient_data and Tableau visualization report
+Developed and end to end dashboard for Covid_patient_data using SQl and Tableau to analyze covid patient health across globe and forecast
 
 
 ## Authors
