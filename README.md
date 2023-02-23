@@ -33,7 +33,8 @@ Code
 
 Queries are  provided in the Covid_analyis_report(portfilio).sql file. The Covid_death xlsx , Covid_vaccinations xlsx file has been added to the database and queries are generated .
 
-The necessary queries for Tableau are provided in the tableau_project folder and the data sets as well. They are used to generate the visualizations
+The necessary queries for Tableau are provided in the tableau_project folder and the data sets as well. They are used to generate the visualizations.
+The queries are numbered according to the corresponding table number
 
 The entire Visualization is there on the tableau File(Covid_data_analysis.twbx)
 ## License
